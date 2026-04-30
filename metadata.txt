@@ -1,0 +1,62 @@
+sample.name	environment	species	cat
+B1	fishskin	Alticus arnoldorum	Aa-S
+B2	fishskin	Alticus arnoldorum	Aa-S
+B3	fishskin	Alticus arnoldorum	Aa-S
+B4	fishskin	Alticus arnoldorum	Aa-S
+B5	fishskin	Alticus arnoldorum	Aa-S
+B6	fishskin	Alticus arnoldorum	Aa-S
+B7	fishskin	Alticus arnoldorum	Aa-S
+B8	fishskin	Alticus arnoldorum	Aa-S
+B9	fishskin	Alticus arnoldorum	Aa-S
+B10	fishskin	Alticus arnoldorum	Aa-S
+B11	substrate	Alticus arnoldorum	Aa-R
+B12	substrate	Alticus arnoldorum	Aa-R
+B13	substrate	Alticus arnoldorum	Aa-R
+B14	substrate	Alticus arnoldorum	Aa-R
+B15	substrate	Alticus arnoldorum	Aa-R
+B16	fishskin	Praealticus labrovittatus	Pl-S
+B17	fishskin	Praealticus labrovittatus	Pl-S
+B18	fishskin	Praealticus labrovittatus	Pl-S
+B19	fishskin	Praealticus labrovittatus	Pl-S
+B20	fishskin	Praealticus labrovittatus	Pl-S
+B21	fishskin	Praealticus labrovittatus	Pl-S
+B22	fishskin	Praealticus labrovittatus	Pl-S
+B23	fishskin	Praealticus labrovittatus	Pl-S
+B24	fishskin	Praealticus labrovittatus	Pl-S
+B25	fishskin	Praealticus labrovittatus	Pl-S
+B26	substrate	Praealticus labrovittatus	Pl-R
+B27	substrate	Praealticus labrovittatus	Pl-R
+B28	substrate	Praealticus labrovittatus	Pl-R
+B29	substrate	Praealticus labrovittatus	Pl-R
+B30	substrate	Praealticus labrovittatus	Pl-R
+B31	substrate	Praealticus labrovittatus	Pl-R
+B32	substrate	Praealticus labrovittatus	Pl-R
+B34	fishskin	Blenniella paula	Bp-S
+B35	fishskin	Blenniella paula	Bp-S
+B37	fishskin	Blenniella paula	Bp-S
+B38	fishskin	Blenniella paula	Bp-S
+B39	fishskin	Blenniella paula	Bp-S
+B41	fishskin	Blenniella paula	Bp-S
+B42	fishskin	Blenniella paula	Bp-S
+B53	fishskin	Blenniella paula	Bp-S
+B54	fishskin	Blenniella paula	Bp-S
+B40	substrate	Blenniella paula	Bp-R
+B43	substrate	Blenniella paula	Bp-R
+B44	substrate	Blenniella paula	Bp-R
+B45	substrate	Blenniella paula	Bp-R
+B46	substrate	Blenniella paula	Bp-R
+B47	substrate	Blenniella paula	Bp-R
+B49	substrate	Blenniella paula	Bp-R
+B50	substrate	Blenniella paula	Bp-R
+B51	substrate	Blenniella paula	Bp-R
+B52	substrate	Blenniella paula	Bp-R
+B55	seawater	seawater	SW
+B56	seawater	seawater	SW
+B57	seawater	seawater	SW
+B58	seawater	seawater	SW
+B59	seawater	seawater	SW
+B61	seawater	seawater	SW
+B62	seawater	seawater	SW
+B64	seawater	seawater	SW
+B65	seawater	seawater	SW
+B66	seawater	seawater	SW
