@@ -563,7 +563,7 @@ kw_significant
 
 write.csv(
   kw_results,
-  "BRITE_C_Kruskal_Wallis_all_results.csv",
+  "TableS8_BRITE_C_Kruskal_Wallis_all_results.csv",
   row.names = FALSE
 )
 
